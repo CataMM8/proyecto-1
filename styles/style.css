@@ -22,13 +22,13 @@ img {
 
 h1, p {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 14; }
+    padding: 14px; }
 
 h2, h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:rgb(109, 183, 231);
     display: block;
-    font-size: 1.17em;
+    font-size: 2em;
     margin-block-start: 1em;
     margin-inline-end: 1em;
     margin-inline-start: 0px;
