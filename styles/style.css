@@ -24,11 +24,22 @@ h1, p {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 14px; }
 
-h2, h3 {
+h2 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:rgb(109, 183, 231);
     display: block;
     font-size: 2em;
+    margin-block-start: 1em;
+    margin-inline-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;}
+    
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(109, 183, 231);
+    display: block;
+    font-size: 1.17em;
     margin-block-start: 1em;
     margin-inline-end: 1em;
     margin-inline-start: 0px;
@@ -41,7 +52,7 @@ h2, h3 {
 .box ul {
     list-style-type: none;
     display: inline-block;
-    background-color: rgb(177, 192, 188) ;
+    background-color: rgb(227, 243, 239) ;
     border: 3px solid #5b7edf;
     border-radius: 50%;
     width: 200px;
@@ -63,16 +74,16 @@ i{
     text-align: left;}
 
 .box ul li:first-child{
-    color: #e02424;}
+    color: #272ae7;}
 
 .box ul li:nth-child(2){
-    color:rgb(26, 163, 44);}
+    color:rgb(209, 35, 186);}
 
 .box ul li:nth-child(3){
-    color: rgb(45, 95, 233);}
+    color: rgb(27, 247, 38);}
 
 .box ul li:last-child{
-    color: rgb(26, 163, 44);}
+    color: rgb(231, 34, 34);}
 
 
 
